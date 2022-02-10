@@ -23,3 +23,9 @@ I identify as a gingerbread house. 🍰
 - 🍢 Food tastes better on a stick.
 - 🍜 Ramen counts as food on a stick.
 - 🍗 Chicken comes with its own stick.
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
