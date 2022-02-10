@@ -22,4 +22,4 @@
 I identify as a gingerbread house. 🍰
 - 🍢 Food tastes better on a stick.
 - 🍜 Ramen counts as food on a stick.
-- 🍗 Chicken also comes with its own stick.
+- 🍗 Chicken comes with its own stick.
