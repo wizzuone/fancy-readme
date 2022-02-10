@@ -18,7 +18,7 @@
 </div>
 ---
 
-### :technologist: About Me :
+### :sushi: About Me :
 I identify as a gingerbread house. 🍰
 - 🍢 Food tastes better on a stick.
 - 🍜 Ramen counts as food on a stick.
